@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="LOV to Cost Centers" max_length="40" name="x_58872_needit_lov" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Source_Value" label="Source_Value" max_length="40" name="u_source_value" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Source_Value_Name" label="Source_Value_Name" max_length="40" name="u_source_value_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Term_Status" label="Term_Status" max_length="40" name="u_term_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Value_ID" label="Value_ID" max_length="40" name="u_value_id" type="string"/>
+    </element>
+</database>

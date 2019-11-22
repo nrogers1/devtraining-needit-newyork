@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="oracle_lower_sysid=true" label="Currency" max_length="40" name="fx_currency" type="collection">
+        <element label="Bank Country" max_length="70" name="x_58872_needit_bank_country" type="string"/>
+    </element>
+</database>
